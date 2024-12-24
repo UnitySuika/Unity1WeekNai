@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec3ef9494bceee049bcbf48ba1034473, type: 3}
+  m_Name: Heroine
+  m_EditorClassIdentifier: 
+  _Name: "\u30D2\u30ED\u30A4\u30F3"
+  _Graphics:
+  - _Status: 0
+    _Graphic: {fileID: 21300000, guid: a136f2c7a80dbbe42bba9609a0ac6b48, type: 3}
+  - _Status: 1
+    _Graphic: {fileID: 21300000, guid: a3dbacc438430e64e98e9f85a55f5563, type: 3}
+  - _Status: 2
+    _Graphic: {fileID: 21300000, guid: c9601c2128d9a0a4c861b6b9d3c0992a, type: 3}
+  - _Status: 3
+    _Graphic: {fileID: 21300000, guid: a581d0c784fd68e41bc5e17fcf26157a, type: 3}
+  - _Status: 4
+    _Graphic: {fileID: 21300000, guid: 12eb535e0f5a520489e1ac023359f4c8, type: 3}
+  - _Status: 5
+    _Graphic: {fileID: 21300000, guid: 67d9ae1875dc90c4f8fd2a636b55ff3c, type: 3}

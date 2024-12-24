@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29626142f1eb6de4baac8e73c4cf9fe0, type: 3}
+  m_Name: Scene1
+  m_EditorClassIdentifier: 
+  _Moments:
+  - _Message: "\u304A\u306F\u3088\u3046\uFF01"
+    _DisplayedActorInfoArray:
+    - _DisplayedActorData: {fileID: 11400000, guid: 37ea955da930a1e448a3d6d50b86c414, type: 2}
+      _IsSpeaking: 1
+      _IsShow: 1
+      _Status: 5
+      _GraphicPosition: {x: 0, y: 0}
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 1
+    _MessageWindowPrefab: {fileID: 0}
+    _NameWindowPrefab: {fileID: 0}
+    _CurrentPlace: {fileID: 11400000, guid: 8a8b2a583adbc3344ae7d1ce99fb95bd, type: 2}
+    _IsShowPlaceName: 1
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: "\u8DB3\u97F3"
+  - _Message: "\u3042\u3063\u304A\u306F\u3088\u3046\u3002"
+    _DisplayedActorInfoArray:
+    - _DisplayedActorData: {fileID: 11400000, guid: eb96f668431908b4195cf11a50ebf7c1, type: 2}
+      _IsSpeaking: 1
+      _IsShow: 1
+      _Status: 0
+      _GraphicPosition: {x: -300, y: 0}
+    - _DisplayedActorData: {fileID: 11400000, guid: 37ea955da930a1e448a3d6d50b86c414, type: 2}
+      _IsSpeaking: 0
+      _IsShow: 1
+      _Status: 5
+      _GraphicPosition: {x: 300, y: 0}
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 1
+    _MessageWindowPrefab: {fileID: 0}
+    _NameWindowPrefab: {fileID: 0}
+    _CurrentPlace: {fileID: 11400000, guid: 8a8b2a583adbc3344ae7d1ce99fb95bd, type: 2}
+    _IsShowPlaceName: 1
+    _IsStopBgm: 0
+    _Bgm: "\u9752\u6625"
+    _Se: 
+  - _Message: "\u3068\u3044\u3046\u3053\u3068\u304C\u3042\u3063\u305F\u3002"
+    _DisplayedActorInfoArray:
+    - _DisplayedActorData: {fileID: 11400000, guid: eb96f668431908b4195cf11a50ebf7c1, type: 2}
+      _IsSpeaking: 1
+      _IsShow: 0
+      _Status: 0
+      _GraphicPosition: {x: 0, y: 0}
+    _MessageType: 1
+    _IsUseDefaultTextWindows: 1
+    _MessageWindowPrefab: {fileID: 0}
+    _NameWindowPrefab: {fileID: 0}
+    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _IsShowPlaceName: 1
+    _IsStopBgm: 0
+    _Bgm: "\u6642\u8A08"
+    _Se: 
+  _DefaultMessageWindowPrefab: {fileID: 8013871498287911201, guid: 4c3ae77fdfac6374cb86abf0718a7b3f, type: 3}
+  _DefaultNameWindowPrefab: {fileID: 6900454068888867830, guid: f3c63288c08a2714bac1cabe7c54d330, type: 3}
+  _NextSceneIfNotChoices: {fileID: 11400000, guid: cdd3deccc3307104792b83215b4f1459, type: 2}
+  _IsEnableChoices: 1
+  _SceneChoicesFormat: {fileID: 11400000, guid: 80b6a026f45c9e24380e6fd5942f0c86, type: 2}
+  _ChoicesDescription: "\u3069\u3053\u306B\u884C\u3053\u3046\u304B\u306A\uFF1F"
+  _Choices:
+  - _Message: "\u901A\u5B66\u8DEF\u3078"
+    _NextScene: {fileID: 11400000, guid: cdd3deccc3307104792b83215b4f1459, type: 2}
+  - _Message: "\u5B66\u6821\u3078"
+    _NextScene: {fileID: 11400000, guid: 15f83f9c0dff8094cbbe55c3dc0e5f1f, type: 2}
