@@ -179,18 +179,24 @@ namespace HatenoWorks.Novel
                     actor.Data = actorInfo.DisplayedActorData;
                     CurrentActors.Add(actor);
                 }
+                actor.IsSpeaking = actorInfo.IsSpeaking;
                 actor.IsShow = actorInfo.IsShow;
                 actor.Status = actorInfo.Status;
                 actor.GraphicPosition = actorInfo.GraphicPosition;
             }
-
-            // –ðŽÒ•\Ž¦
 
             // –¼‘O•\Ž¦
             if (Array.Exists(moment.DisplayedActorInfoArray, dai => dai.IsSpeaking))
             {
                 DisplayedActorInfo speaker = Array.Find(moment.DisplayedActorInfoArray, dai => dai.IsSpeaking);
                 currentNameWindow.StartSending(speaker.DisplayedActorData.Name, true);
+                foreach(DisplayedActorInfo actorInfo in moment.DisplayedActorInfoArray)
+                {
+                    if (actorInfo.IsSpeaking)
+                    {
+
+                    }
+                }
             }
             else
             {
@@ -297,6 +303,8 @@ namespace HatenoWorks.Novel
 
             await UniTask.Yield(token);
             isStopMainSequence = false;
+            currentNameWindow.gameObject.SetActive(true);
+            currentMessageWindow.gameObject.SetActive(true);
             SetMoment();
         }
     }

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec3ef9494bceee049bcbf48ba1034473, type: 3}
+  m_Name: Utito
+  m_EditorClassIdentifier: 
+  _Name: "\u5185\u4EBA"
+  _Graphics:
+  - _Status: 0
+    _Graphic: {fileID: 21300000, guid: 3008aeaefb032f14e855764ac5881546, type: 3}
+  - _Status: 1
+    _Graphic: {fileID: 21300000, guid: a53ebc17512a08241a11a4b4a766b012, type: 3}
+  - _Status: 2
+    _Graphic: {fileID: 21300000, guid: bbf9b3d875ea81144b0f1e06b9a42113, type: 3}
+  - _Status: 3
+    _Graphic: {fileID: 21300000, guid: 04229d88b55d2ff42a4467aeda3080a8, type: 3}
+  - _Status: 4
+    _Graphic: {fileID: 21300000, guid: 487f1fc4cfa0b7a4db3c7630775b2b4a, type: 3}
+  - _Status: 5
+    _Graphic: {fileID: 21300000, guid: dda722cd0e1d0c74eb95d8db80db2dae, type: 3}

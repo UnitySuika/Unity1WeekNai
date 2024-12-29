@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29626142f1eb6de4baac8e73c4cf9fe0, type: 3}
+  m_Name: Meeting1
+  m_EditorClassIdentifier: 
+  _Moments:
+  - _Message: "\u2026\u2026\u3082\u3046\u98FD\u304D\u305F\u306A\u3001\u3053\u306E\u30B2\u30FC\u30E0\u5B9F\u6CC1\u30B7\u30EA\u30FC\u30BA\u3082"
+    _DisplayedActorInfoArray:
+    - _DisplayedActorData: {fileID: 11400000, guid: b211ff87aa6fd0b448a16726458a81a9, type: 2}
+      _IsSpeaking: 1
+      _IsShow: 1
+      _Status: 0
+      _GraphicPosition: {x: 0, y: 0}
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 0
+    _MessageWindowPrefab: {fileID: 605010715570566451, guid: 890742d1142dc0c43abb118bbee3c3a8, type: 3}
+    _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
+    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _IsShowPlaceName: 0
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  - _Message: "\u306F\u3042\u2026\u2026\u4F55\u3082\u3084\u308B\u6C17\u8D77\u304D\u306A\u3044\u3084"
+    _DisplayedActorInfoArray:
+    - _DisplayedActorData: {fileID: 11400000, guid: b211ff87aa6fd0b448a16726458a81a9, type: 2}
+      _IsSpeaking: 1
+      _IsShow: 1
+      _Status: 4
+      _GraphicPosition: {x: 0, y: 0}
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 0
+    _MessageWindowPrefab: {fileID: 605010715570566451, guid: 890742d1142dc0c43abb118bbee3c3a8, type: 3}
+    _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
+    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _IsShowPlaceName: 0
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  - _Message: "\u50D5\u304C\u751F\u304D\u3066\u308B\u610F\u5473\u306A\u3093\u3066\u3001\u306A\u3044\u306A"
+    _DisplayedActorInfoArray:
+    - _DisplayedActorData: {fileID: 11400000, guid: b211ff87aa6fd0b448a16726458a81a9, type: 2}
+      _IsSpeaking: 1
+      _IsShow: 1
+      _Status: 4
+      _GraphicPosition: {x: 0, y: 0}
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 0
+    _MessageWindowPrefab: {fileID: 605010715570566451, guid: 890742d1142dc0c43abb118bbee3c3a8, type: 3}
+    _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
+    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _IsShowPlaceName: 0
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  - _Message: "\u30B4\u30B4\u30B4\u30B4\u30B4"
+    _DisplayedActorInfoArray:
+    - _DisplayedActorData: {fileID: 11400000, guid: b211ff87aa6fd0b448a16726458a81a9, type: 2}
+      _IsSpeaking: 0
+      _IsShow: 1
+      _Status: 4
+      _GraphicPosition: {x: 0, y: 0}
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 1
+    _MessageWindowPrefab: {fileID: 0}
+    _NameWindowPrefab: {fileID: 0}
+    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _IsShowPlaceName: 0
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  - _Message: "\u30D1\u30EA\u30FC\u30F3\uFF01\u30C9\u30FC\u30F3\uFF01"
+    _DisplayedActorInfoArray:
+    - _DisplayedActorData: {fileID: 11400000, guid: b211ff87aa6fd0b448a16726458a81a9, type: 2}
+      _IsSpeaking: 0
+      _IsShow: 1
+      _Status: 4
+      _GraphicPosition: {x: 0, y: 0}
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 1
+    _MessageWindowPrefab: {fileID: 0}
+    _NameWindowPrefab: {fileID: 0}
+    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _IsShowPlaceName: 0
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  - _Message: "\u3046\u308F\u30FC\u30FC\uFF01\uFF01"
+    _DisplayedActorInfoArray:
+    - _DisplayedActorData: {fileID: 11400000, guid: b211ff87aa6fd0b448a16726458a81a9, type: 2}
+      _IsSpeaking: 1
+      _IsShow: 1
+      _Status: 3
+      _GraphicPosition: {x: 0, y: 0}
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 1
+    _MessageWindowPrefab: {fileID: 605010715570566451, guid: 890742d1142dc0c43abb118bbee3c3a8, type: 3}
+    _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
+    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _IsShowPlaceName: 0
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  - _Message: "\u306A\u3001\u306A\u3001\u306A\u3001\u306A\u3093\u3060\uFF01\uFF1F"
+    _DisplayedActorInfoArray:
+    - _DisplayedActorData: {fileID: 11400000, guid: b211ff87aa6fd0b448a16726458a81a9, type: 2}
+      _IsSpeaking: 1
+      _IsShow: 1
+      _Status: 3
+      _GraphicPosition: {x: 0, y: 0}
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 1
+    _MessageWindowPrefab: {fileID: 605010715570566451, guid: 890742d1142dc0c43abb118bbee3c3a8, type: 3}
+    _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
+    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _IsShowPlaceName: 0
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  - _Message: "\u3042\u3001\u3053\u3093\u306B\u3061\u306F"
+    _DisplayedActorInfoArray:
+    - _DisplayedActorData: {fileID: 11400000, guid: b211ff87aa6fd0b448a16726458a81a9, type: 2}
+      _IsSpeaking: 0
+      _IsShow: 1
+      _Status: 3
+      _GraphicPosition: {x: -300, y: 0}
+    - _DisplayedActorData: {fileID: 11400000, guid: 6e8c9252b70f88b469272eec7e3ea71d, type: 2}
+      _IsSpeaking: 1
+      _IsShow: 1
+      _Status: 0
+      _GraphicPosition: {x: 300, y: 0}
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 1
+    _MessageWindowPrefab: {fileID: 605010715570566451, guid: 659c3f17a3c71f244a836d0c4f727d12, type: 3}
+    _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
+    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _IsShowPlaceName: 0
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  - _Message: "\u30DC\u30AF\u306F\u3001\u30CA\u30A4\u30CA\u661F\u304B\u3089\u6765\u305F\u5B87\u5B99\u4EBA\u2015\u2015"
+    _DisplayedActorInfoArray:
+    - _DisplayedActorData: {fileID: 11400000, guid: b211ff87aa6fd0b448a16726458a81a9, type: 2}
+      _IsSpeaking: 0
+      _IsShow: 1
+      _Status: 3
+      _GraphicPosition: {x: -300, y: 0}
+    - _DisplayedActorData: {fileID: 11400000, guid: 6e8c9252b70f88b469272eec7e3ea71d, type: 2}
+      _IsSpeaking: 1
+      _IsShow: 1
+      _Status: 5
+      _GraphicPosition: {x: 300, y: 0}
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 1
+    _MessageWindowPrefab: {fileID: 605010715570566451, guid: 6b22252747917524a851b739c3cca535, type: 3}
+    _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
+    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _IsShowPlaceName: 0
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  - _Message: "\u30A4\u30FC\u30CA\u3060"
+    _DisplayedActorInfoArray:
+    - _DisplayedActorData: {fileID: 11400000, guid: b211ff87aa6fd0b448a16726458a81a9, type: 2}
+      _IsSpeaking: 0
+      _IsShow: 1
+      _Status: 3
+      _GraphicPosition: {x: -300, y: 0}
+    - _DisplayedActorData: {fileID: 11400000, guid: 6e8c9252b70f88b469272eec7e3ea71d, type: 2}
+      _IsSpeaking: 1
+      _IsShow: 1
+      _Status: 5
+      _GraphicPosition: {x: 300, y: 0}
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 1
+    _MessageWindowPrefab: {fileID: 605010715570566451, guid: 6b22252747917524a851b739c3cca535, type: 3}
+    _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
+    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _IsShowPlaceName: 0
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  _DefaultMessageWindowPrefab: {fileID: 605010715570566451, guid: be06066104fe9df47966511f906d7a3a, type: 3}
+  _DefaultNameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
+  _NextSceneIfNotChoices: {fileID: 11400000, guid: a775d9c829a777345abf137fe212fc85, type: 2}
+  _IsEnableChoices: 0
+  _SceneChoicesFormat: {fileID: 0}
+  _ChoicesDescription: 
+  _Choices: []
