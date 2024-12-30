@@ -45,7 +45,7 @@ MonoBehaviour:
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
-  - _Message: "\u3046\u3093\uFF1F\u300EU18\u30A4\u30E9\u30B9\u30C8\u30B3\u30F3\u30C6\u30B9\u30C8\u300F\uFF1F\n\u3053\u3093\u306A\u306E\u3042\u308B\u3093\u3060"
+  - _Message: "\u3046\u3093\uFF1F\u300EUnder18\u30A4\u30E9\u30B9\u30C8\u30B3\u30F3\u30C6\u30B9\u30C8\u300F\uFF1F\n\u3053\u3093\u306A\u306E\u3042\u308B\u3093\u3060"
     _DisplayedActorInfoArray:
     - _DisplayedActorData: {fileID: 11400000, guid: b211ff87aa6fd0b448a16726458a81a9, type: 2}
       _IsSpeaking: 1

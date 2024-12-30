@@ -12,7 +12,119 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 29626142f1eb6de4baac8e73c4cf9fe0, type: 3}
   m_Name: IinaMonologue
   m_EditorClassIdentifier: 
-  _Moments: []
+  _Moments:
+  - _Message: "\u5185\u4EBA\u306F\u3042\u308C\u304B\u3089\u3082\u7D75\u3092\u63CF\u304D\u7D9A\u3051\u3066\u3044\u308B"
+    _DisplayedActorInfoArray:
+    - _DisplayedActorData: {fileID: 11400000, guid: 6e8c9252b70f88b469272eec7e3ea71d, type: 2}
+      _IsSpeaking: 1
+      _IsShow: 1
+      _Status: 0
+      _GraphicPosition: {x: 0, y: 0}
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 0
+    _MessageWindowPrefab: {fileID: 605010715570566451, guid: 890742d1142dc0c43abb118bbee3c3a8, type: 3}
+    _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
+    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _IsShowPlaceName: 0
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  - _Message: "\u898B\u305A\u77E5\u3089\u305A\u306E\u8AB0\u304B\u306B\u81EA\u5206\u3092\u3001\n\u601D\u3044\u3092\u4F1D\u3048\u308B\u305F\u3081\u306B"
+    _DisplayedActorInfoArray:
+    - _DisplayedActorData: {fileID: 11400000, guid: 6e8c9252b70f88b469272eec7e3ea71d, type: 2}
+      _IsSpeaking: 1
+      _IsShow: 1
+      _Status: 0
+      _GraphicPosition: {x: 0, y: 0}
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 0
+    _MessageWindowPrefab: {fileID: 605010715570566451, guid: 890742d1142dc0c43abb118bbee3c3a8, type: 3}
+    _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
+    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _IsShowPlaceName: 0
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  - _Message: "\u5185\u4EBA\u306F\u3001\u3082\u3046\u6614\u306E\u5185\u4EBA\u3058\u3083\u306A\u3044"
+    _DisplayedActorInfoArray:
+    - _DisplayedActorData: {fileID: 11400000, guid: 6e8c9252b70f88b469272eec7e3ea71d, type: 2}
+      _IsSpeaking: 1
+      _IsShow: 1
+      _Status: 5
+      _GraphicPosition: {x: 0, y: 0}
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 0
+    _MessageWindowPrefab: {fileID: 605010715570566451, guid: 890742d1142dc0c43abb118bbee3c3a8, type: 3}
+    _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
+    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _IsShowPlaceName: 0
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  - _Message: "\u81EA\u5206\u306E\u30C0\u30E1\u306A\u3068\u3053\u308D\u3070\u304B\u308A\u898B\u308B\u76EE\u3058\u3083\u306A\u304F\u3066\u3001\n\u5468\u308A\u3092\u3001\u672A\u6765\u3092\u898B\u308B\u76EE\u306B\u5909\u308F\u3063\u305F\u304B\u3089"
+    _DisplayedActorInfoArray:
+    - _DisplayedActorData: {fileID: 11400000, guid: 6e8c9252b70f88b469272eec7e3ea71d, type: 2}
+      _IsSpeaking: 1
+      _IsShow: 1
+      _Status: 5
+      _GraphicPosition: {x: 0, y: 0}
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 0
+    _MessageWindowPrefab: {fileID: 605010715570566451, guid: 890742d1142dc0c43abb118bbee3c3a8, type: 3}
+    _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
+    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _IsShowPlaceName: 0
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  - _Message: "\u50D5\u3082\u3001\u3053\u3093\u306A\u306B\u697D\u3057\u3044\u3053\u3068\u306F\u3001\n\u751F\u307E\u308C\u3066\u521D\u3081\u3066\u3060\u3063\u305F"
+    _DisplayedActorInfoArray:
+    - _DisplayedActorData: {fileID: 11400000, guid: 6e8c9252b70f88b469272eec7e3ea71d, type: 2}
+      _IsSpeaking: 1
+      _IsShow: 1
+      _Status: 5
+      _GraphicPosition: {x: 0, y: 0}
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 0
+    _MessageWindowPrefab: {fileID: 605010715570566451, guid: 890742d1142dc0c43abb118bbee3c3a8, type: 3}
+    _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
+    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _IsShowPlaceName: 0
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  - _Message: "\u8AB0\u304B\u306B\u3001\u5C11\u3057\u3067\u3082\u5E78\u305B\u3092\u5C4A\u3051\u3089\u308C\u308B\u3053\u3068\u304C\u3001\n\u3053\u3093\u306A\u306B\u697D\u3057\u3044\u306A\u3093\u3066\u306D"
+    _DisplayedActorInfoArray:
+    - _DisplayedActorData: {fileID: 11400000, guid: 6e8c9252b70f88b469272eec7e3ea71d, type: 2}
+      _IsSpeaking: 1
+      _IsShow: 1
+      _Status: 0
+      _GraphicPosition: {x: 0, y: 0}
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 0
+    _MessageWindowPrefab: {fileID: 605010715570566451, guid: 890742d1142dc0c43abb118bbee3c3a8, type: 3}
+    _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
+    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _IsShowPlaceName: 0
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  - _Message: "\u2026\u2026\u50D5\u306F\u5E30\u3089\u306A\u304F\u3061\u3083\u3044\u3051\u306A\u3044"
+    _DisplayedActorInfoArray:
+    - _DisplayedActorData: {fileID: 11400000, guid: 6e8c9252b70f88b469272eec7e3ea71d, type: 2}
+      _IsSpeaking: 1
+      _IsShow: 1
+      _Status: 4
+      _GraphicPosition: {x: 0, y: 0}
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 0
+    _MessageWindowPrefab: {fileID: 605010715570566451, guid: 890742d1142dc0c43abb118bbee3c3a8, type: 3}
+    _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
+    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _IsShowPlaceName: 0
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
   _DefaultMessageWindowPrefab: {fileID: 605010715570566451, guid: be06066104fe9df47966511f906d7a3a, type: 3}
   _DefaultNameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
   _NextSceneIfNotChoices: {fileID: 11400000, guid: 7c7e8d953fdb1084db9eace901c63aa3, type: 2}
