@@ -26,6 +26,7 @@ MonoBehaviour:
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
     _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
     _IsShowPlaceName: 0
+    _Sign: "3\u304B\u6708\u5F8C"
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -42,6 +43,7 @@ MonoBehaviour:
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
     _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -58,6 +60,7 @@ MonoBehaviour:
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
     _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -74,6 +77,7 @@ MonoBehaviour:
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
     _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -90,6 +94,7 @@ MonoBehaviour:
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
     _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -106,6 +111,7 @@ MonoBehaviour:
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
     _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -122,6 +128,7 @@ MonoBehaviour:
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
     _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 

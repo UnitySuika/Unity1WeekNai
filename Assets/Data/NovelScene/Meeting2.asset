@@ -31,6 +31,7 @@ MonoBehaviour:
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
     _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -52,6 +53,7 @@ MonoBehaviour:
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
     _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -73,6 +75,7 @@ MonoBehaviour:
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
     _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -94,6 +97,7 @@ MonoBehaviour:
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
     _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -115,8 +119,9 @@ MonoBehaviour:
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
     _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
-    _Bgm: 
+    _Bgm: "\u65E5\u5E38"
     _Se: 
   - _Message: "\u805E\u3044\u3066\u306A\u3044\u306A\u3053\u308C\u2026\u2026"
     _DisplayedActorInfoArray:
@@ -136,6 +141,7 @@ MonoBehaviour:
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
     _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -157,6 +163,7 @@ MonoBehaviour:
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
     _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -178,6 +185,7 @@ MonoBehaviour:
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
     _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 

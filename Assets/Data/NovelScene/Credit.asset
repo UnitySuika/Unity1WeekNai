@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29626142f1eb6de4baac8e73c4cf9fe0, type: 3}
+  m_Name: Credit
+  m_EditorClassIdentifier: 
+  _Moments:
+  - _Message: "\u30D7\u30EC\u30A4\u3057\u3066\u304F\u308C\u3066\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3059\uFF01\uFF01\uFF01"
+    _DisplayedActorInfoArray: []
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 1
+    _MessageWindowPrefab: {fileID: 0}
+    _NameWindowPrefab: {fileID: 0}
+    _CurrentPlace: {fileID: 11400000, guid: 0e9246954cabdec4795a631a026b67fd, type: 2}
+    _IsShowPlaceName: 0
+    _Sign: 
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  - _Message: "\u4F7F\u7528\u7D20\u6750\u306E\u4E00\u90E8\n- \u307F\u3093\u3061\u308A\u3048\uFF08
+      https://min-chi.material.jp \uFF09\n- \u84B2\u927E\u3055\u3061\u3053\uFF08https://dova-s.jp/_contents/author/profile423.html\uFF09"
+    _DisplayedActorInfoArray: []
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 1
+    _MessageWindowPrefab: {fileID: 0}
+    _NameWindowPrefab: {fileID: 0}
+    _CurrentPlace: {fileID: 11400000, guid: 0e9246954cabdec4795a631a026b67fd, type: 2}
+    _IsShowPlaceName: 0
+    _Sign: 
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  - _Message: "- OtoLogic\uFF08https://otologic.jp/\uFF09\n- DOVA-SYNDROME\uFF08https://dova-s.jp/\uFF09"
+    _DisplayedActorInfoArray: []
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 1
+    _MessageWindowPrefab: {fileID: 0}
+    _NameWindowPrefab: {fileID: 0}
+    _CurrentPlace: {fileID: 11400000, guid: 0e9246954cabdec4795a631a026b67fd, type: 2}
+    _IsShowPlaceName: 0
+    _Sign: 
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  - _Message: "\u5236\u4F5C\uFF1A\u30CF\u30C6\u30CE\u30EF\u30FC\u30AF\u30B9\uFF08\u3059\u3044\u304B\uFF09"
+    _DisplayedActorInfoArray: []
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 1
+    _MessageWindowPrefab: {fileID: 0}
+    _NameWindowPrefab: {fileID: 0}
+    _CurrentPlace: {fileID: 11400000, guid: 0e9246954cabdec4795a631a026b67fd, type: 2}
+    _IsShowPlaceName: 0
+    _Sign: 
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  _DefaultMessageWindowPrefab: {fileID: 605010715570566451, guid: be06066104fe9df47966511f906d7a3a, type: 3}
+  _DefaultNameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
+  _NextSceneIfNotChoices: {fileID: 0}
+  _IsEnableChoices: 0
+  _SceneChoicesFormat: {fileID: 0}
+  _ChoicesDescription: 
+  _Choices: []

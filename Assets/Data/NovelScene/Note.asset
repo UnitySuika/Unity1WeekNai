@@ -13,8 +13,7 @@ MonoBehaviour:
   m_Name: Note
   m_EditorClassIdentifier: 
   _Moments:
-  - _Message: "\uFF0A\u6CE8\u610F\uFF0A\n- \u3053\u306E\u30B2\u30FC\u30E0\u306B\u306F\u30BB\u30FC\u30D6\u304C\u3042\u308A\u307E\u305B\u3093\u3002\n 
-      \u8A71\u304C\u77ED\u3044\u304B\u3064\u6642\u9593\u304C\u7121\u304B\u3063\u305F\u304B\u3089\u3067\u3059\u3002\u3059\u307F\u307E\u305B\u3093\u3002"
+  - _Message: "\uFF0A\u6CE8\u610F\uFF0A\n\u3053\u306E\u30B2\u30FC\u30E0\u306B\u306F\u30BB\u30FC\u30D6\u304C\u3042\u308A\u307E\u305B\u3093\u3002\n\u8A71\u304C\u77ED\u3044\u304B\u3064\u6642\u9593\u304C\u7121\u304B\u3063\u305F\u304B\u3089\u3067\u3059\u3002\u3059\u307F\u307E\u305B\u3093\u3002"
     _DisplayedActorInfoArray: []
     _MessageType: 0
     _IsUseDefaultTextWindows: 1
@@ -22,6 +21,7 @@ MonoBehaviour:
     _NameWindowPrefab: {fileID: 0}
     _CurrentPlace: {fileID: 11400000, guid: bcaf3ebefbde6be4ca4a0bf1d29c12b5, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 

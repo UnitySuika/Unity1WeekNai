@@ -86,11 +86,11 @@ namespace HatenoWorks.Novel
             PlayBgm(clip, volume, isEnableCrossFade);
         }
 
-        public void StopBgm()
+        public void StopBgm(float fadeTime = 0.5f)
         {
             if (currentAudioSourceBgm.clip != null)
             {
-                currentAudioSourceBgm.Stop();
+                currentAudioSourceBgm.DOFade(0f, fadeTime).SetEase(Ease.Linear);
             }
         }
 

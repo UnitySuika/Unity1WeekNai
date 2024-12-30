@@ -24,10 +24,11 @@ MonoBehaviour:
     _IsUseDefaultTextWindows: 0
     _MessageWindowPrefab: {fileID: 605010715570566451, guid: 890742d1142dc0c43abb118bbee3c3a8, type: 3}
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
-    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _CurrentPlace: {fileID: 11400000, guid: ffdb1ad345bb6454a89b3550dfa0d88e, type: 2}
     _IsShowPlaceName: 0
+    _Sign: "1\u9031\u9593\u5F8C"
     _IsStopBgm: 0
-    _Bgm: 
+    _Bgm: "\u6642\u8A08"
     _Se: 
   - _Message: "\u30C1\u30E7\u30B3\u4EE3\u304C\u5148\u9031\u3060\u3051\u30674000\u5186\u2026\u2026"
     _DisplayedActorInfoArray:
@@ -40,8 +41,9 @@ MonoBehaviour:
     _IsUseDefaultTextWindows: 0
     _MessageWindowPrefab: {fileID: 605010715570566451, guid: 890742d1142dc0c43abb118bbee3c3a8, type: 3}
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
-    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _CurrentPlace: {fileID: 11400000, guid: ffdb1ad345bb6454a89b3550dfa0d88e, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -61,8 +63,9 @@ MonoBehaviour:
     _IsUseDefaultTextWindows: 0
     _MessageWindowPrefab: {fileID: 605010715570566451, guid: 659c3f17a3c71f244a836d0c4f727d12, type: 3}
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
-    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _CurrentPlace: {fileID: 11400000, guid: ffdb1ad345bb6454a89b3550dfa0d88e, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -82,8 +85,9 @@ MonoBehaviour:
     _IsUseDefaultTextWindows: 0
     _MessageWindowPrefab: {fileID: 605010715570566451, guid: 890742d1142dc0c43abb118bbee3c3a8, type: 3}
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
-    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _CurrentPlace: {fileID: 11400000, guid: ffdb1ad345bb6454a89b3550dfa0d88e, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -103,8 +107,9 @@ MonoBehaviour:
     _IsUseDefaultTextWindows: 0
     _MessageWindowPrefab: {fileID: 605010715570566451, guid: 659c3f17a3c71f244a836d0c4f727d12, type: 3}
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
-    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _CurrentPlace: {fileID: 11400000, guid: ffdb1ad345bb6454a89b3550dfa0d88e, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -124,8 +129,9 @@ MonoBehaviour:
     _IsUseDefaultTextWindows: 0
     _MessageWindowPrefab: {fileID: 605010715570566451, guid: 890742d1142dc0c43abb118bbee3c3a8, type: 3}
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
-    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _CurrentPlace: {fileID: 11400000, guid: ffdb1ad345bb6454a89b3550dfa0d88e, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -145,9 +151,10 @@ MonoBehaviour:
     _IsUseDefaultTextWindows: 0
     _MessageWindowPrefab: {fileID: 605010715570566451, guid: 659c3f17a3c71f244a836d0c4f727d12, type: 3}
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
-    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _CurrentPlace: {fileID: 11400000, guid: ffdb1ad345bb6454a89b3550dfa0d88e, type: 2}
     _IsShowPlaceName: 0
-    _IsStopBgm: 0
+    _Sign: 
+    _IsStopBgm: 1
     _Bgm: 
     _Se: 
   - _Message: "\u3046\u3093\uFF1F\u4ECA\u306A\u3093\u3066\u8A00\u3063\u305F\uFF1F"
@@ -166,8 +173,9 @@ MonoBehaviour:
     _IsUseDefaultTextWindows: 0
     _MessageWindowPrefab: {fileID: 605010715570566451, guid: 890742d1142dc0c43abb118bbee3c3a8, type: 3}
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
-    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _CurrentPlace: {fileID: 11400000, guid: ffdb1ad345bb6454a89b3550dfa0d88e, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -187,8 +195,9 @@ MonoBehaviour:
     _IsUseDefaultTextWindows: 0
     _MessageWindowPrefab: {fileID: 605010715570566451, guid: 659c3f17a3c71f244a836d0c4f727d12, type: 3}
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
-    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _CurrentPlace: {fileID: 11400000, guid: ffdb1ad345bb6454a89b3550dfa0d88e, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -208,8 +217,9 @@ MonoBehaviour:
     _IsUseDefaultTextWindows: 0
     _MessageWindowPrefab: {fileID: 605010715570566451, guid: 659c3f17a3c71f244a836d0c4f727d12, type: 3}
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
-    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _CurrentPlace: {fileID: 11400000, guid: ffdb1ad345bb6454a89b3550dfa0d88e, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -229,8 +239,9 @@ MonoBehaviour:
     _IsUseDefaultTextWindows: 0
     _MessageWindowPrefab: {fileID: 605010715570566451, guid: 890742d1142dc0c43abb118bbee3c3a8, type: 3}
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
-    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _CurrentPlace: {fileID: 11400000, guid: ffdb1ad345bb6454a89b3550dfa0d88e, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -250,8 +261,9 @@ MonoBehaviour:
     _IsUseDefaultTextWindows: 0
     _MessageWindowPrefab: {fileID: 605010715570566451, guid: 890742d1142dc0c43abb118bbee3c3a8, type: 3}
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
-    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _CurrentPlace: {fileID: 11400000, guid: ffdb1ad345bb6454a89b3550dfa0d88e, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -271,8 +283,9 @@ MonoBehaviour:
     _IsUseDefaultTextWindows: 0
     _MessageWindowPrefab: {fileID: 605010715570566451, guid: 659c3f17a3c71f244a836d0c4f727d12, type: 3}
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
-    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _CurrentPlace: {fileID: 11400000, guid: ffdb1ad345bb6454a89b3550dfa0d88e, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -292,8 +305,9 @@ MonoBehaviour:
     _IsUseDefaultTextWindows: 0
     _MessageWindowPrefab: {fileID: 605010715570566451, guid: 659c3f17a3c71f244a836d0c4f727d12, type: 3}
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
-    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _CurrentPlace: {fileID: 11400000, guid: ffdb1ad345bb6454a89b3550dfa0d88e, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -313,8 +327,9 @@ MonoBehaviour:
     _IsUseDefaultTextWindows: 0
     _MessageWindowPrefab: {fileID: 605010715570566451, guid: 890742d1142dc0c43abb118bbee3c3a8, type: 3}
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
-    _CurrentPlace: {fileID: 11400000, guid: 886a5decef7eeec49a86dddf8287e189, type: 2}
+    _CurrentPlace: {fileID: 11400000, guid: ffdb1ad345bb6454a89b3550dfa0d88e, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 

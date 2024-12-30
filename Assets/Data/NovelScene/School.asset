@@ -25,7 +25,8 @@ MonoBehaviour:
     _MessageWindowPrefab: {fileID: 0}
     _NameWindowPrefab: {fileID: 0}
     _CurrentPlace: {fileID: 11400000, guid: 76993a8e8cb86b747bd2e9120f17ef70, type: 2}
-    _IsShowPlaceName: 0
+    _IsShowPlaceName: 1
+    _Sign: "3\u5E74\u524D"
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -42,6 +43,7 @@ MonoBehaviour:
     _NameWindowPrefab: {fileID: 0}
     _CurrentPlace: {fileID: 11400000, guid: 76993a8e8cb86b747bd2e9120f17ef70, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -58,6 +60,7 @@ MonoBehaviour:
     _NameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
     _CurrentPlace: {fileID: 11400000, guid: 76993a8e8cb86b747bd2e9120f17ef70, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 
@@ -69,6 +72,7 @@ MonoBehaviour:
     _NameWindowPrefab: {fileID: 0}
     _CurrentPlace: {fileID: 11400000, guid: 76993a8e8cb86b747bd2e9120f17ef70, type: 2}
     _IsShowPlaceName: 0
+    _Sign: 
     _IsStopBgm: 0
     _Bgm: 
     _Se: 

@@ -17,6 +17,7 @@ namespace HatenoWorks.Novel
         public TextWindow NameWindowPrefab => _NameWindowPrefab;
         public Place CurrentPlace => _CurrentPlace;
         public bool IsShowPlaceName => _IsShowPlaceName;
+        public string Sign => _Sign;
         public bool IsStopBgm => _IsStopBgm;
         public string Bgm => _Bgm;
         public string Se => _Se;
@@ -33,6 +34,7 @@ namespace HatenoWorks.Novel
         [Header("----èÛãµÅEââèo----")]
         [SerializeField] private Place _CurrentPlace;
         [SerializeField] private bool _IsShowPlaceName;
+        [SerializeField] private string _Sign;
         [SerializeField] private bool _IsStopBgm;
         [SerializeField] private string _Bgm;
         [SerializeField] private string _Se;

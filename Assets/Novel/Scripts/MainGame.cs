@@ -44,6 +44,8 @@ namespace HatenoWorks.Novel
 
         private bool isStopMainSequence;
 
+        private bool isSignCompleted;
+
         public void StartNovel()
         {
             CurrentNovelScene = startNovelScene;
@@ -62,6 +64,7 @@ namespace HatenoWorks.Novel
                 else
                 {
                     ++CurrentMomentIndex;
+                    isSignCompleted = false;
                     SetMoment();
                 }
             }
@@ -95,10 +98,10 @@ namespace HatenoWorks.Novel
 
             Moment moment = CurrentNovelScene.Moments[CurrentMomentIndex];
 
-            if (CurrentPlace != moment.CurrentPlace)
+            if (CurrentPlace != moment.CurrentPlace || (moment.Sign != "" && !isSignCompleted))
             {
                 isStopMainSequence = true;
-                MovePlace(moment.CurrentPlace, moment.IsShowPlaceName).Forget();
+                MovePlace(moment.CurrentPlace, moment.IsShowPlaceName, moment.Sign).Forget();
                 return;
             }
 
@@ -148,7 +151,7 @@ namespace HatenoWorks.Novel
             // å¯â âπçƒê∂
             if (moment.Se != "")
             {
-                AudioManager.Instance.PlaySE(moment.Se);
+                AudioManager.Instance.PlaySE(moment.Se, isOverride: true);
             }
 
             // BGMçƒê∂Ç‹ÇΩÇÕí‚é~
@@ -190,13 +193,6 @@ namespace HatenoWorks.Novel
             {
                 DisplayedActorInfo speaker = Array.Find(moment.DisplayedActorInfoArray, dai => dai.IsSpeaking);
                 currentNameWindow.StartSending(speaker.DisplayedActorData.Name, true);
-                foreach(DisplayedActorInfo actorInfo in moment.DisplayedActorInfoArray)
-                {
-                    if (actorInfo.IsSpeaking)
-                    {
-
-                    }
-                }
             }
             else
             {
@@ -220,7 +216,7 @@ namespace HatenoWorks.Novel
             // BGMÇçƒê∂Ç∑ÇÈ
         }
 
-        private async UniTask MovePlace(Place nextPlace, bool isShowPlaceName)
+        private async UniTask MovePlace(Place nextPlace, bool isShowPlaceName, string sign)
         {
             CancellationToken token = this.GetCancellationTokenOnDestroy();
 
@@ -243,6 +239,16 @@ namespace HatenoWorks.Novel
 
             await fader.FadeIn(fadeInTime, token);
             token.ThrowIfCancellationRequested();
+
+            if (sign != "")
+            {
+                placeNameWindow.gameObject.SetActive(true);
+                placeNameWindow.StartSending(sign, true);
+                await UniTask.WaitUntil(() => Input.GetMouseButtonDown(0), cancellationToken: token);
+                token.ThrowIfCancellationRequested();
+                placeNameWindow.gameObject.SetActive(false);
+                isSignCompleted = true;
+            }
 
             // èÍèäñºÇï\é¶
             if (isShowPlaceName)

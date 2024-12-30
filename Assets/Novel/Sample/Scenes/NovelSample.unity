@@ -1306,13 +1306,19 @@ MonoBehaviour:
   audioSourceBgm2: {fileID: 1385611959538834227}
   audioSourceSe: {fileID: 1367892266603014185}
   bgmClips:
-  - Id: "\u9752\u6625"
-    Clip: {fileID: 8300000, guid: bd28436378104654684729287f906fed, type: 3}
   - Id: "\u6642\u8A08"
     Clip: {fileID: 8300000, guid: bd1602cb5f2ea1447ad5f16bdd51ea47, type: 3}
+  - Id: "\u65E5\u5E38"
+    Clip: {fileID: 8300000, guid: 9afdeadef32e59b4daa34dcf2b2997fe, type: 3}
+  - Id: "\u3055\u3088\u306A\u3089"
+    Clip: {fileID: 8300000, guid: acce5550908c107409326c59902fc841, type: 3}
   seClips:
-  - Id: "\u8DB3\u97F3"
-    Clip: {fileID: 8300000, guid: ea4383eb8a8f00849b89d68139872adc, type: 3}
+  - Id: "\u30B4\u30B4\u30B4"
+    Clip: {fileID: 8300000, guid: ddc717c9b2d346248be001ac0c0638ff, type: 3}
+  - Id: "\u30C9\u30A2\u3092\u958B\u304F"
+    Clip: {fileID: 8300000, guid: 1ba6b76f60a1b684a900ed6e46e3748b, type: 3}
+  - Id: "\u6765\u8A2A"
+    Clip: {fileID: 8300000, guid: 2c441fcc34ad573408a11b4768a20d60, type: 3}
 --- !u!114 &6631941269514313325
 MonoBehaviour:
   m_ObjectHideFlags: 0
