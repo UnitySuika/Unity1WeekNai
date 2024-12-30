@@ -44,7 +44,7 @@ namespace HatenoWorks.Novel
 
         private bool isStopMainSequence;
 
-        private void Start()
+        public void StartNovel()
         {
             CurrentNovelScene = startNovelScene;
             CurrentMomentIndex = 0;

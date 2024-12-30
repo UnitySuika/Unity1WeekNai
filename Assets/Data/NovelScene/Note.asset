@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29626142f1eb6de4baac8e73c4cf9fe0, type: 3}
+  m_Name: Note
+  m_EditorClassIdentifier: 
+  _Moments:
+  - _Message: "\uFF0A\u6CE8\u610F\uFF0A\n- \u3053\u306E\u30B2\u30FC\u30E0\u306B\u306F\u30BB\u30FC\u30D6\u304C\u3042\u308A\u307E\u305B\u3093\u3002\n 
+      \u8A71\u304C\u77ED\u3044\u304B\u3064\u6642\u9593\u304C\u7121\u304B\u3063\u305F\u304B\u3089\u3067\u3059\u3002\u3059\u307F\u307E\u305B\u3093\u3002"
+    _DisplayedActorInfoArray: []
+    _MessageType: 0
+    _IsUseDefaultTextWindows: 1
+    _MessageWindowPrefab: {fileID: 0}
+    _NameWindowPrefab: {fileID: 0}
+    _CurrentPlace: {fileID: 11400000, guid: bcaf3ebefbde6be4ca4a0bf1d29c12b5, type: 2}
+    _IsShowPlaceName: 0
+    _IsStopBgm: 0
+    _Bgm: 
+    _Se: 
+  _DefaultMessageWindowPrefab: {fileID: 605010715570566451, guid: be06066104fe9df47966511f906d7a3a, type: 3}
+  _DefaultNameWindowPrefab: {fileID: 664015305335317684, guid: 6bc13d45a74c3af49bb281509b021788, type: 3}
+  _NextSceneIfNotChoices: {fileID: 11400000, guid: 71698e78673e59d499c2ff19eb1c8aba, type: 2}
+  _IsEnableChoices: 0
+  _SceneChoicesFormat: {fileID: 0}
+  _ChoicesDescription: 
+  _Choices: []
