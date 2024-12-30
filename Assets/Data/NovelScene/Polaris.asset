@@ -218,7 +218,7 @@ MonoBehaviour:
     - _DisplayedActorData: {fileID: 11400000, guid: b211ff87aa6fd0b448a16726458a81a9, type: 2}
       _IsSpeaking: 1
       _IsShow: 1
-      _Status: 5
+      _Status: 0
       _GraphicPosition: {x: -300, y: 0}
     - _DisplayedActorData: {fileID: 11400000, guid: 6e8c9252b70f88b469272eec7e3ea71d, type: 2}
       _IsSpeaking: 0
