@@ -8,3 +8,4 @@
   - 蒲鉾さちこ（https://dova-s.jp/_contents/author/profile423.html' target='_blank'>https://dova-s.jp/_contents/author/profile423.html）
   - OtoLogic（https://otologic.jp/）
   - DOVA-SYNDROME（https://dova-s.jp/）
+- サンプル用アセット（/Assets/Novel/Sample内のファイルの一部）
