@@ -1,0 +1,10 @@
+自作ではないもの（使用させていただいたアセット）
+- 画像（/Assets/Images内のファイルの一部）
+  - みんちりえ（Images内のbookstore.jpg、genkan.jpg、room_night.jpg、shoppingmall.jpg）
+- プラグイン（/Assets/Plugins、/Assets/Resources、/Assets/unity-override-master内のファイル）
+  - DOTWEEN
+  - unity-override-master（https://github.com/ina-amagami/unity-overwriter?tab=readme-ov-file）
+- 音楽（/Assets/Sounds内のファイル）
+  - 蒲鉾さちこ（https://dova-s.jp/_contents/author/profile423.html' target='_blank'>https://dova-s.jp/_contents/author/profile423.html）
+  - OtoLogic（https://otologic.jp/）
+  - DOVA-SYNDROME（https://dova-s.jp/）
