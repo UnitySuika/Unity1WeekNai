@@ -1,3 +1,6 @@
+「ゲット・バック」
+https://unityroom.com/games/getback
+
 自作ではないもの（使用させていただいたアセット）
 - 画像（/Assets/Images内のファイルの一部）
   - みんちりえ（Images内のbookstore.jpg、genkan.jpg、room_night.jpg、shoppingmall.jpg）
